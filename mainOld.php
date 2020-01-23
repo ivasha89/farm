@@ -1,7 +1,4 @@
 <?php
-$k=0;
-$animalName = 'Animal'.$k;
-echo $animalName;
 /*	class Farm {
 	
 		public $cows;
